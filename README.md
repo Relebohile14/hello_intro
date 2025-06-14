@@ -12,22 +12,26 @@ This is my first Python project as part of my journey into programming, data sci
 - How to upload a project to GitHub
 
 ## ▶️ How to Run This Project
+
 ```bash
 python hello_intro.py
 
-**💼Why This Project Matters**
+## 💼Why This Project Matters
+
 This project marks the start of my developer journey. It helped me:
 - Set up Git and GitHub
 - Push code to my first public repository
 - Begin building a strong Python foundation
 - Start creating my portfolio
 
-**🛠️ Tools Used**
+## 🛠️ Tools Used
+
 - Python 3.13
 - PyCharm
 - Git & GitHub
 - Git Bash
 
-** Related Links**
+## Related Links
+
 - My GitHub Profile
 - My Portfolio Roadmap (Profile README)
